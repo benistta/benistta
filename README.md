@@ -39,7 +39,7 @@
 ![MVC](https://user-images.githubusercontent.com/64919819/113648848-8949e600-964a-11eb-833f-91872b6f3fe0.png)
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
 
-![Oscar’ github stats](https://github-readme-stats.vercel.app/api?username=benistta&show_icons=true&theme=tokyonight)
+![Beckys’ github stats](https://github-readme-stats.vercel.app/api?username=benistta&show_icons=true&theme=tokyonight)
 
 ## Likes To
 - dance
@@ -49,7 +49,7 @@
 
 ## Find Me!
 [![LinkedIn](https://user-images.githubusercontent.com/91342410/156677668-405eaa47-f782-4913-b9db-128c2f54ff0d.png)](https://www.linkedin.com/in/becky-nisttahuz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:benistta@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://user-images.githubusercontent.com/64919819/113643567-d4aac700-963f-11eb-82e3-3b79ec3bd177.png)](mailto:benistta014@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
