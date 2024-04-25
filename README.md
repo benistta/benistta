@@ -8,11 +8,11 @@
 - Former Educator turned Back-End Software Developer | Ruby on Rails
 - Looking for a team that shares my core values of creativity, cooperation and purpose.
 - Graduated from Turing School of Software & Design.
+- Current student at Perscholas for Full Stack Java Development.
 - Currently in pursuit of a position that supports my ongoing growth.
 
 ## Currently Learning
-- Consuming, Building & Exposing APIs
-- Continuous Integration / Continuous Deployment
+- Full Stack Java Development
 - Phyton
 
 ## Best At
